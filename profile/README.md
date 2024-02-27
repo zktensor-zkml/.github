@@ -1,7 +1,5 @@
 ## zktensor 👋
 
-<!--
-
 **Verifiable Machine Leaning:**
 
 🙋‍♀️  - Tech Stack used:
@@ -10,4 +8,3 @@
 🍿 CAIRO - Transpiled into cairo
 🧙 Giza Datasets - Imported giza datasets
 [GIZA DASHBOARD](https://actions-server-agi-dblzzhtf5q-ew.a.run.app/dashboard)
--->
