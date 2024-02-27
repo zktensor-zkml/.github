@@ -1,4 +1,4 @@
-## zktensor 👋
+## ZKTENSOR 👋
 
 **Verifiable Machine Leaning:**
 
@@ -7,4 +7,4 @@
 - 👩‍💻 **Actions SDK** - Implemented giza actions 
 - 🍿 **CAIRO** - Transpiled into cairo
 - 🧙 **Giza Datasets** - Imported giza datasets
-- [ZKTENSOR DASHBOARD](https://actions-server-agi-dblzzhtf5q-ew.a.run.app/dashboard)
+- [ZKTENSOR Workspace](https://actions-server-agi-dblzzhtf5q-ew.a.run.app/dashboard)
